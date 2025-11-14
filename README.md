@@ -1,2 +1,3 @@
 # mi-pagina
-Va a ser mi primera pagina en GitHUB
+<h1>Mi pagina</h1>
+<p>Va a ser mi primera pagina en GitHUB<p>
